@@ -8,7 +8,13 @@ This repository contains a demo application in the `demo-angular` folder that us
 
 # Installation
 
+### NativeScript 7+:
+
 Run `tns plugin add nativescript-contacts-lite`
+
+### NativeScript Version prior to 7:
+
+Run `tns plugin add nativescript-contacts-lite@0.2.7`
 
 # Usage
 
