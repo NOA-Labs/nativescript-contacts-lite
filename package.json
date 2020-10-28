@@ -44,7 +44,7 @@
     "@nativescript/core": "^7.0.12",
     "@nativescript/types": "^7.0.4",
     "@nativescript/webpack": "^3.0.8",
-    "nativescript-worker-loader": "git+https://7b8666419efea0fa144da0c1f42f6f69d4793958:x-oauth-basic@github.com/NOA-Labs/worker-loader.git",
+    "nativescript-worker-loader": "git+https://github.com/NOA-Labs/worker-loader.git",
     "typescript": "^4.0.5"
   }
 }
